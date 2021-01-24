@@ -14,7 +14,8 @@ int main() {
     printf("%i\n", numero1 + numero2);
     printf("%i\n", numero1 - numero2);
     printf("%i\n", numero1 * numero2);
-    printf("%i\n", numero1 / numero2); // divisão inteira
+    printf("%i\n", numero1 / numero2); // divisão inteira, se colocar números racionais aí se torna uma divisão racional
+    // por exemplo, 4.0 / 3
     printf("%i\n", numero1 % numero2);
 
     // Precedência de operadores
