@@ -19,12 +19,14 @@ int main() {
     printf("%i\n", numero1 % numero2);
 
     // Precedência de operadores
-    // 1. ++; --; (posfixo)
-    // 2. ++; --; (prefixo)
-    // 3. - (unário)
-    // 4. *, /, %
-    // 5. +, -
-    // 6. =
+// 1. ++, - - (posfixo)
+// 2. ++, - - (prefixo), - (unário), ! (negação)
+// 3. *, %, /
+// 4. +, -
+// 5. >, > =, <, < =
+// 6. ==, !=
+// 7. &&
+// 8. ||
 
     return 0;
 }
