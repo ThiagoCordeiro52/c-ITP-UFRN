@@ -1,0 +1,1 @@
+    printf("Somar divisores: %i\n", soma);
