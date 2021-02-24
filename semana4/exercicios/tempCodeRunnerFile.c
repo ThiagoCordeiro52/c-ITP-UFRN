@@ -1,0 +1,1 @@
+    scanf("%d %d %c", &l_inicial, &c_inicial, &direcao);
